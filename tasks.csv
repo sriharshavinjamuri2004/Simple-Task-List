@@ -1,8 +1,16 @@
 description,priority
+Buy groceries,Low
 Buy groceries,High
 Complete project report,Medium
+Buy groceries,High
+Buy groceries,Medium
+Complete project report,Medium
+Complete project report,Low
+Schedule a meeting with the team,High
 Schedule a meeting with the team,Low
+Prepare presentation for the meeting,Low
 Prepare presentation for the meeting,Medium
+Pay the bills,Medium
 Pay the bills,High
 Exercise,Low
-
+Exercise,High
