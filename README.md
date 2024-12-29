@@ -1,3 +1,5 @@
+Develop a Python task management app for adding, removing, listing, prioritizing, and receiving task recommendations based on task descriptions.
+
 Task Management App
 1. Add Task
 2. Remove Task
